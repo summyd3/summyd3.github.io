@@ -1,0 +1,27 @@
+body {
+	color: #F9FAE9;
+	background-color: #609870;
+	font-family: verdana;
+}
+
+
+body {
+	text-align: center;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+img {
+	width: 100%
+}
+
+ul {
+	list-style-type: none;
+}
