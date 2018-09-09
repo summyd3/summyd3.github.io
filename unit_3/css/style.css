@@ -1,16 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
 body {
 	color: #F9FAE9;
-	background-color: #609870;
-	font-family: verdana;
+	background-color: #FFD0A9;
+	background-image: url(unit_3/images.food.jpg);
+	background-size: cover;
+	font-size: 1.5em;
+	
 }
 
+h1 {font-family: 'Righteous', cursive;
+	font-size: 4em;
+	word-spacing: 5px;
 
+}
+
+hr  { border-top: none
+
+}
 body {
 	text-align: center;
 }
 
 #slogan {
 	font-style: italic;
+	font-size: 1.5em;
+	
 }
 
 a {
@@ -19,7 +34,7 @@ a {
 }
 
 img {
-	width: 100%
+	width: 100%;
 }
 
 ul {
