@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+body {
+	color: #F9FAE9;
+	background-color: #FFD0A9;
+	background-size: cover;
+	font-size: 1.5em;
+	border: white;
+	
+}
+
+h1 {font-family: 'Righteous', cursive;
+	font-size: 4em;
+	word-spacing: 5px;
+}
+
+hr  { border-top: none
+
+}
+body {
+	text-align: center;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+#slogan {
+	font-style: italic;
+	font-size: 1.5em;
+	
+}
+
+#two_column {
+	background-color: #FFD0A9;
+	border: none;
+	padding: 20px;
+}
+
+#left {
+	background-color: violet;
+	border: 1px white solid;
+	padding: 20px;
+	float: left;
+    width: 30%;
+}
+
+#right {
+	background-color: pink;
+	border: 1px white solid;
+	padding: 20px;
+	float: right;   
+    width: 62%;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+img {
+	width: 100%;
+}
+
+ul {
+	list-style-type: none;
+}
+
+header {
+	background-color: #FF957E;
+}
+
+main { 
+ }
+
+ footer { 
+  }
+
+div {
+	
+}
+
+
+
+
+
+
+
+
+
+
